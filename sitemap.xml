@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>index.html</loc></url>
+  <url><loc>pages/about.html</loc></url>
+  <url><loc>pages/courses.html</loc></url>
+  <url><loc>pages/course-ba.html</loc></url>
+  <url><loc>pages/course-bcom.html</loc></url>
+  <url><loc>pages/course-bca.html</loc></url>
+  <url><loc>pages/course-skill.html</loc></url>
+  <url><loc>pages/admissions.html</loc></url>
+  <url><loc>pages/departments.html</loc></url>
+  <url><loc>pages/faculty.html</loc></url>
+  <url><loc>pages/library.html</loc></url>
+  <url><loc>pages/student-life.html</loc></url>
+  <url><loc>pages/clubs.html</loc></url>
+  <url><loc>pages/events.html</loc></url>
+  <url><loc>pages/notices.html</loc></url>
+  <url><loc>pages/gallery.html</loc></url>
+  <url><loc>pages/downloads.html</loc></url>
+  <url><loc>pages/support.html</loc></url>
+  <url><loc>pages/iqac.html</loc></url>
+  <url><loc>pages/management.html</loc></url>
+  <url><loc>pages/contact.html</loc></url>
+  <url><loc>pages/404.html</loc></url>
+</urlset>
